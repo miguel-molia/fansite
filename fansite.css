@@ -54,8 +54,7 @@ box-shadow: 3px 12px 23px;
 .logorafaelnadal
 {display: flex;
 justify-content: center;
-margin: auto;
-
+margin: 37px 259px 3px 238px;
 }
 
 
@@ -66,6 +65,7 @@ text-align: center;
 color: black;
 font-family: 'Passion One', cursive;
 font-size: 24px;
+margin: 46px 0 0 4px;
 }
 
 body
@@ -106,14 +106,135 @@ a:hover {
 
 .repere
 
-{color:rgb(224, 20, 20) ;}
+{color:rgb(224, 20, 20) ;
 
-.marg
-{}
-
+}
 
 
+.actualité
+{font-family: Arial, Helvetica, sans-serif;
+ color: black;
+ text-decoration: underline;
+ margin: 0px 0px 0px 15px;
 
-@media screen and (min-width:600px) and (max-width:900px) {
-    
+}
+
+.lien1
+{color: grey;
+ font-family: Arial, Helvetica, sans-serif;
+ margin: 20px 0px 0px -779px;
+ font-size: 18px;   
+
+}
+
+.actualité2
+{font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    text-decoration: underline;
+    margin: 0px 0px 0px 15px;
+
+}
+
+.lien2
+{
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    margin: 20px 0px 0px -465px;
+
+}
+
+.actualité3
+{font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    text-decoration: underline;
+    margin: 0px 0px 0px 15px;
+
+}
+
+.lien3
+{color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    margin: 20px 0px 0px -473px;
+
+}
+
+.actualité4
+{font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    text-decoration: underline;
+    margin: 0px 0px 0px 15px;
+
+}
+
+.lien4
+{color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    margin: 20px 0px 0px -416px;
+
+}
+
+.actualité5
+{font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    text-decoration: underline;
+    margin: 0px 0px 0px 15px;
+
+}
+
+.lien5
+{color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    margin: 20px 0px 0px -474px;
+
+}
+
+.actualité6
+{font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    text-decoration: underline;
+    margin: 0px 0px 0px 15px;
+
+}
+
+.lien6
+{color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    margin: 20px 0px 0px -531px;
+
+}
+
+.actualité7
+{font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    text-decoration: underline;
+    margin: 0px 0px 0px 15px;
+
+}
+
+.liens7
+{color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    margin: 20px 0px 0px -501px;
+
+}
+
+
+.trophées
+{height: auto;
+ width: 66%;
+ margin: 0% 0% 0% 17%; 
+}
+
+
+ .rafavida
+{display: flex;
+ justify-content: center; 
+ height: 609px;  
+
 }
